@@ -40,4 +40,4 @@ Failsafes:
 
 ## Algorithm
 
-![](images/algorithm.png)
+![](images/algo.png)
