@@ -50,7 +50,7 @@ void startupStabilize(){
 
 void waitForLowerEmpty() {
   Serial.println("WaitForLowerEmpty");
-  int fillCycleCount = 0;
+  fillCycleCount = 0;
 }
 
 void fillOneSecond() {
